@@ -1,0 +1,37 @@
+.content {
+    width: 200px;
+    height: auto;
+}
+
+.harga {
+    color: green;
+}
+
+.header {
+    background-color: teal;
+    height: 100px;
+    font-size: 30px;
+    color: white;
+}
+.header a {
+    color: white;
+}
+
+.nama_shop {
+    background-color: turquoise;
+    height: 100px;
+    padding-top: 35px;
+
+}
+
+/* di detail */
+.gambarnya {
+    margin: 20px;
+    display: block;
+}
+
+.namabarang {
+    color: black;
+    font-weight: 700;
+}
+
